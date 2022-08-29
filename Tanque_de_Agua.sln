@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanque_de_Agua", "Tanque_de_Agua\Tanque_de_Agua.csproj", "{AA5F25D9-F223-4733-9EFE-2C505D836D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA5F25D9-F223-4733-9EFE-2C505D836D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA5F25D9-F223-4733-9EFE-2C505D836D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA5F25D9-F223-4733-9EFE-2C505D836D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA5F25D9-F223-4733-9EFE-2C505D836D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73404E00-9B56-4339-AA19-7481B900F1FF}
+	EndGlobalSection
+EndGlobal
